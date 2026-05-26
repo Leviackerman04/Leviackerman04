@@ -215,6 +215,44 @@ Modern applications built using React, Angular, .NET, SQL databases, and Dockeri
 
 ---
 
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Leviackerman04">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:yusmendy9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/ing.yusmendy/">
+<img src="https://img.shields.io/badge/Instagram-Professional-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/espinalteachnologyandsolutions/">
+<img src="https://img.shields.io/badge/Instagram-Business-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@yusmendyespinal5849?si=5yMJbT2AQEGXfFPK">
+<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🌐 Social Links
+
+- 💼 GitHub: https://github.com/Leviackerman04
+- 📧 Business Email: yusmendy9@gmail.com
+- 📸 Professional Instagram: https://www.instagram.com/ing.yusmendy/
+- 🏢 Technology & Solutions Page: https://www.instagram.com/espinalteachnologyandsolutions/
+- ▶️ YouTube Channel: https://youtube.com/@yusmendyespinal5849?si=5yMJbT2AQEGXfFPK
+
+
 # 💻 Favorite Quote
 
 ```cpp
