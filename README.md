@@ -83,7 +83,7 @@ Outside of writing code, I enjoy studying system design at scale, following the 
 
 <table>
   <tr>
-    <td align="center" width="25%">🎯<br/><b>4+ Years</b><br/><sub>Building Software</sub></td>
+    <td align="center" width="25%">🎯<br/><b>3+ Years</b><br/><sub>Building Software</sub></td>
     <td align="center" width="25%">🌎<br/><b>Remote-Ready</b><br/><sub>UTC-4 Timezone</sub></td>
     <td align="center" width="25%">🗣️<br/><b>polyglot</b><br/><sub>Spanish / English / Portugues</sub></td>
     <td align="center" width="25%">⚡<br/><b>Fast Response</b><br/><sub>&lt; 24h Turnaround</sub></td>
@@ -92,7 +92,7 @@ Outside of writing code, I enjoy studying system design at scale, following the 
 
 </div>
 
-<sub>✏️ Adjust years of experience, timezone, and response time to match your reality.</sub>
+
 
 <br/>
 
