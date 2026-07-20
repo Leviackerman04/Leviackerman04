@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Yusmendy Espinal
+# 👋 Hi, I'm Yusmendy Espinal
 ### 🚀 Full-Stack Software Engineer | AI & LLM Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;React+%2B+Angular+Developer;.NET+%2B+Node.js+Backend+Engineer;AI+%26+LLM+Developer;Cloud+%26+DevOps+Enthusiast;Docker+%2B+Kubernetes+Specialist;Building+Scalable+Applications" />
@@ -14,53 +14,60 @@
 
 </div>
 
+<div align="center">
+
+**📑 Quick Navigation**
+&nbsp;•&nbsp; [About](#-about-me) &nbsp;•&nbsp; [Tech Stack](#️-tech-stack) &nbsp;•&nbsp; [Analytics](#-github-analytics) &nbsp;•&nbsp; [Languages](#-most-used-programming-languages) &nbsp;•&nbsp; [Projects](#-featured-projects) &nbsp;•&nbsp; [Contact](#-lets-connect)
+
+</div>
+
 ---
 
-## 🧠 Sobre Mí
+## 🧠 About Me
 
 ```yaml
-nombre: Yusmendy Espinal
-rol: Full-Stack Software Engineer
-ubicación: República Dominicana
-portafolio: https://portfolio-yusmendy-espinal.vercel.app/
+name: Yusmendy Espinal
+role: Full-Stack Software Engineer
+location: Dominican Republic
+portfolio: https://portfolio-yusmendy-espinal.vercel.app/
 
-enfoque:
-  - Desarrollo Full-Stack
-  - Aplicaciones con AI & LLMs
-  - Sistemas backend escalables
+focus:
+  - Full-Stack Development
+  - AI & LLM Applications
+  - Scalable Backend Systems
   - Clean Architecture
   - Cloud & DevOps
-  - Frontend moderno
+  - Modern Frontend Development
 
-trabajando_actualmente_con:
+currently_working_with:
   - React / Angular / Next.js
   - .NET / Node.js / NestJS
   - SQL & NoSQL Databases
   - Docker / Kubernetes
   - AWS / Azure / GCP
-  - Inteligencia Artificial
+  - Artificial Intelligence
 ```
 
 ---
 
-## 👨‍💻 Resumen Profesional
+## 👨‍💻 Professional Summary
 
-Ingeniero de Software Full-Stack enfocado en construir aplicaciones modernas, escalables y listas para producción. Mi experiencia incluye desarrollo frontend con **React, Angular y Next.js**, ingeniería backend con **.NET, C# y Node.js**, gestión avanzada de bases de datos **SQL y NoSQL**, entornos containerizados con **Docker y Kubernetes**, y despliegues en la nube con **AWS, Azure y Google Cloud**.
+Full-Stack Software Engineer focused on building modern, scalable, production-ready applications. My experience spans frontend development with **React, Angular, and Next.js**, backend engineering with **.NET, C#, and Node.js**, advanced **SQL/NoSQL** database management, containerized environments with **Docker and Kubernetes**, and cloud deployments on **AWS, Azure, and Google Cloud**.
 
-También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creando sistemas inteligentes que mejoran la automatización, productividad y experiencia de usuario. Disfruto resolver problemas de ingeniería complejos, optimizar el rendimiento de aplicaciones y diseñar arquitecturas mantenibles que escalan eficientemente.
+I also work on AI-powered applications and LLM integrations, building intelligent systems that improve automation, productivity, and user experience. I enjoy solving complex engineering problems, optimizing application performance, and designing maintainable architectures that scale efficiently.
 
 ---
 
-## ⚡ Qué Hago
+## ⚡ What I Do
 
 <div align="center">
 
 | 🚀 Backend | ⚛️ Frontend | ☁️ Cloud & DevOps | 🤖 AI & LLM |
-|---|---|---|---|
-| REST & GraphQL APIs | React / Angular / Next.js | AWS / Azure / GCP | Integraciones AI |
-| Auth & Seguridad | UI Responsiva | Docker / Kubernetes | Workflows LLM |
-| Clean Architecture | Diseño Moderno / UX | CI/CD Pipelines | Features Inteligentes |
-| Optimización de BD | Micro-frontends | Infra como Código | Automatización |
+|:---:|:---:|:---:|:---:|
+| REST & GraphQL APIs | React / Angular / Next.js | AWS / Azure / GCP | AI Integrations |
+| Auth & Security | Responsive UI | Docker / Kubernetes | LLM Workflows |
+| Clean Architecture | Modern UX Design | CI/CD Pipelines | Intelligent Features |
+| Database Optimization | Micro-frontends | Infrastructure as Code | Automation |
 
 </div>
 
@@ -80,14 +87,14 @@ También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creand
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,nestjs,express,python,cpp,c,java,graphql" />
 
-### 🗄️ Bases de Datos
+### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,redis,firebase" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-### ☁️ Cloud & Infraestructura
+### ☁️ Cloud & Infrastructure
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,cloudflare,heroku,terraform" />
 
-### 🐳 DevOps & Herramientas
+### 🐳 DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,githubactions,jenkins,linux,bash,nginx,vscode,postman" />
 
 ### 🤖 AI & LLM
@@ -109,23 +116,42 @@ También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creand
 
 </div>
 
-> ⚠️ **Por qué cambié esto:** el servicio público `github-readme-stats.vercel.app` que usaba antes (stats + top-langs) fue dado de baja por Vercel — ya no lo patrocinan, así que su creador confirmó que dejará de ser confiable ([ver el hilo oficial](https://github.com/anuraghazra/github-readme-stats/issues/4680)). Por eso lo reemplacé con **`metrics.yml`**, que genera esta misma tarjeta (stats + lenguajes) directamente en tu repo vía GitHub Actions, sin depender de ningún servidor externo que se pueda caer.
->
-> **Para activarla:**
-> 1. Crea `.github/workflows/metrics.yml` en tu repo `Leviackerman04/Leviackerman04` y pega el contenido del `metrics.yml` que te generé aparte.
-> 2. Ve a **Actions** → busca "Generate Metrics" → dale **Run workflow** una vez.
-> 3. En ~1-2 minutos se creará el archivo `metrics.svg` en la raíz de tu repo, y la imagen de arriba se llenará sola. Se actualiza automáticamente cada día.
+<details>
+<summary>⚠️ <b>Image not loading? Click here to fix it</b></summary>
+<br/>
+
+The old public service (`github-readme-stats.vercel.app`) was discontinued by Vercel and is no longer reliable ([official thread](https://github.com/anuraghazra/github-readme-stats/issues/4680)). This card now uses **`metrics.yml`**, which generates the same card (stats + languages) directly inside your repo via GitHub Actions — no external server dependency.
+
+**If it's still blank, check these in order:**
+
+1. **Workflow exists?** Confirm `.github/workflows/metrics.yml` is committed to `Leviackerman04/Leviackerman04` (your screenshot shows it is ✅).
+2. **Did it actually run?** Go to the **Actions** tab → click "Generate Metrics" → **Run workflow** manually. Wait 1–2 minutes.
+3. **Check the run for errors.** Click into the run — if it failed on the commit step, it's almost always a permissions issue (see next point).
+4. **Enable write permissions (the #1 cause of failure):** Go to **Settings → Actions → General → Workflow permissions**, and select **"Read and write permissions"**, then Save. By default GitHub restricts Actions to read-only, which blocks the workflow from committing `metrics.svg` back to your repo.
+5. Re-run the workflow after enabling permissions — `metrics.svg` should now appear in your repo root, and the image above will populate automatically (it also refreshes daily).
+
+</details>
 
 ---
 
-## 🧮 Lenguajes de Programación Más Usados
+## 🧮 Most Used Programming Languages
 
-> 📌 El desglose real de tus lenguajes (por bytes y % de código) ya viene incluido en la tarjeta **Metrics** de arriba ☝️ (sección "Languages"), generada automáticamente por `metrics.yml`. Ahí se actualiza sola cada día — no depende de la API vieja que se caía.
+> 📌 A full languages breakdown (by bytes and % of code) is already included in the **Metrics** card above (see the "Languages" section) — generated automatically by `metrics.yml`.
 
 <div align="center">
 
-| Lenguaje | Nivel |
-|---|---|
+<a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Leviackerman04&layout=compact&theme=tokyonight">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Leviackerman04&layout=compact&theme=tokyonight"/>
+</a>
+
+</div>
+
+> 💡 This card comes from an **alternate mirror** (`github-readme-stats-fast`, an independent fork with its own hosting). It's a handy backup while you activate the Action above, but as another third-party deployment it's not guaranteed to stay up either.
+
+<div align="center">
+
+| Language | Proficiency |
+|---|:---:|
 | 🟦 TypeScript / JavaScript | ⭐⭐⭐⭐⭐ |
 | 🟪 C# (.NET) | ⭐⭐⭐⭐⭐ |
 | 🟨 Python | ⭐⭐⭐⭐ |
@@ -137,11 +163,11 @@ También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creand
 
 </div>
 
-> ✏️ Esta tabla es manual (no depende de GitHub), así que edítala libremente según tu experiencia real.
+> ✏️ This table is manual (not fetched from GitHub), so feel free to edit it to reflect your real experience.
 
 ---
 
-## 🔥 Racha de Contribuciones
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -149,15 +175,15 @@ También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creand
 
 </div>
 
-> 💡 Este servicio (`streak-stats.demolab.com`) es independiente del que se cayó — no depende de Vercel. Si igual sale en blanco, suele ser una caída temporal puntual: espera unos minutos y refresca la página de tu perfil.
+> 💡 This service (`streak-stats.demolab.com`) is independent from the one that went down — it doesn't rely on Vercel. If it's still blank, it's usually a brief outage: wait a few minutes and refresh your profile page.
 
 ---
 
-## 📈 Gráfico de Actividad
+## 📈 Activity Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Leviackerman04&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20Contribuciones"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Leviackerman04&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
@@ -174,11 +200,18 @@ También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creand
 
 </div>
 
-> 🛠️ **Esta serpiente NO se ve hasta que actives el workflow** — la imagen dará 404 hasta entonces. Pasos exactos:
-> 1. En tu repo de perfil (`github.com/Leviackerman04/Leviackerman04`), crea la carpeta `.github/workflows/`.
-> 2. Dentro, crea un archivo llamado `snake.yml` y pega el contenido de `snake.yml` que te generé aparte.
-> 3. Ve a la pestaña **Actions** de ese repo → busca "Generate Snake" → dale **Run workflow** una vez manualmente.
-> 4. Espera ~1 minuto: se creará automáticamente una rama `output` con el SVG. A partir de ahí la imagen de arriba se verá y se actualizará sola cada 6 horas.
+<details>
+<summary>🛠️ <b>Snake not showing? Click here to activate it</b></summary>
+<br/>
+
+This animation stays a 404 until its workflow runs at least once.
+
+1. Confirm `.github/workflows/snake.yml` is committed (your screenshot shows it is ✅).
+2. Go to the **Actions** tab → find "Generate Snake" → click **Run workflow** manually.
+3. Same as above — if the run fails on the publish step, check **Settings → Actions → General → Workflow permissions** and set it to **"Read and write permissions"**.
+4. Wait about a minute: an `output` branch will be created automatically with the SVG. From then on, the image above renders and refreshes every 6 hours.
+
+</details>
 
 ---
 
@@ -190,7 +223,7 @@ También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creand
 
 </div>
 
-> ⚠️ Si los trofeos no cargan (el servicio de `github-profile-trophy` a veces cae), aquí tienes una alternativa estable con badges estáticos:
+> ⚠️ If the trophies don't load (the `github-profile-trophy` service is occasionally flaky), here's a stable static-badge alternative:
 
 <div align="center">
 
@@ -202,7 +235,7 @@ También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creand
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -210,13 +243,13 @@ También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creand
   <tr>
     <td width="50%" valign="top">
       <h3>🏥 Clinic Manager</h3>
-      Plataforma full-stack de gestión de clínicas con autenticación, citas, módulos administrativos y arquitectura backend escalable.
+      Full-stack clinic management platform with authentication, appointments, admin modules, and scalable backend architecture.
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,dotnet,sqlserver,docker" />
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Ecommerce System</h3>
-      Plataforma ecommerce lista para producción con APIs REST, autenticación, gestión de productos y estructura de base de datos optimizada.
+      Production-ready ecommerce platform with REST APIs, authentication, product management, and an optimized database structure.
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=angular,nodejs,postgresql,docker" />
     </td>
@@ -224,25 +257,25 @@ También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creand
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI Applications</h3>
-      Aplicaciones que integran servicios de IA y Large Language Models (LLMs) para automatizar workflows y mejorar la experiencia de usuario.
+      Applications integrating AI services and Large Language Models (LLMs) to automate workflows and improve user experience.
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=python,fastapi,redis" />
       <img src="https://img.shields.io/badge/LLM-black?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
       <h3>📱 Full-Stack Applications</h3>
-      Aplicaciones modernas construidas con React, Angular, .NET, bases de datos SQL y entornos Dockerizados.
+      Modern applications built with React, Angular, .NET, SQL databases, and Dockerized environments.
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,angular,dotnet,mysql" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <h3>🌐 Portfolio Personal</h3>
-      Mi portafolio profesional, desplegado en Vercel.
+      <h3>🌐 Personal Portfolio</h3>
+      My professional portfolio, deployed on Vercel.
       <br/><br/>
       <a href="https://portfolio-yusmendy-espinal.vercel.app/">
-        <img src="https://img.shields.io/badge/🌐_Ver_Portfolio-06b6d4?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/🌐_View_Portfolio-06b6d4?style=for-the-badge"/>
       </a>
     </td>
   </tr>
@@ -252,21 +285,21 @@ También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creand
 
 ---
 
-## 🧠 Principios de Ingeniería
+## 🧠 Engineering Principles
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="25%">✔️<br/><b>Código Limpio</b></td>
-    <td align="center" width="25%">📈<br/><b>Sistemas Escalables</b></td>
-    <td align="center" width="25%">⚡<br/><b>Alto Rendimiento</b></td>
-    <td align="center" width="25%">🏗️<br/><b>Arq. Mantenible</b></td>
+    <td align="center" width="25%">✔️<br/><b>Clean Code</b></td>
+    <td align="center" width="25%">📈<br/><b>Scalable Systems</b></td>
+    <td align="center" width="25%">⚡<br/><b>High Performance</b></td>
+    <td align="center" width="25%">🏗️<br/><b>Maintainable Architecture</b></td>
   </tr>
   <tr>
-    <td align="center" width="25%">🔐<br/><b>Auth Segura</b></td>
+    <td align="center" width="25%">🔐<br/><b>Secure Auth</b></td>
     <td align="center" width="25%">🤖<br/><b>AI & LLM</b></td>
-    <td align="center" width="25%">🎨<br/><b>Frontend Moderno</b></td>
+    <td align="center" width="25%">🎨<br/><b>Modern Frontend</b></td>
     <td align="center" width="25%">☁️<br/><b>Cloud-Native</b></td>
   </tr>
 </table>
@@ -275,18 +308,18 @@ También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creand
 
 ---
 
-## 🌱 Actualmente Aprendiendo
+## 🌱 Currently Learning
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="33%">🤖<br/><b>Advanced AI Engineering</b></td>
-    <td align="center" width="33%">🧩<br/><b>Apps con LLMs</b></td>
-    <td align="center" width="33%">🧱<br/><b>Microservicios</b></td>
+    <td align="center" width="33%">🧩<br/><b>LLM Application Development</b></td>
+    <td align="center" width="33%">🧱<br/><b>Microservices Architecture</b></td>
   </tr>
   <tr>
-    <td align="center" width="33%">🌐<br/><b>Sistemas Distribuidos</b></td>
+    <td align="center" width="33%">🌐<br/><b>Distributed Systems</b></td>
     <td align="center" width="33%">🏗️<br/><b>System Design</b></td>
     <td align="center" width="33%">☁️<br/><b>Cloud Architecture</b></td>
   </tr>
@@ -296,7 +329,7 @@ También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creand
 
 ---
 
-## 📫 Conecta Conmigo
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -312,20 +345,20 @@ También trabajo con aplicaciones potenciadas por IA e integraciones LLM, creand
 
 </div>
 
-### 🌐 Enlaces Sociales
+### 🌐 Social Links
 
 - 💼 GitHub: https://github.com/Leviackerman04
-- 🌐 Portafolio: https://portfolio-yusmendy-espinal.vercel.app/
+- 🌐 Portfolio: https://portfolio-yusmendy-espinal.vercel.app/
 - 📧 Email: yusmendy9@gmail.com
-- 📸 Instagram Profesional: https://www.instagram.com/ing.yusmendy/
-- 🏢 Instagram Tech & Solutions: https://www.instagram.com/espinalteachnologyandsolutions/
+- 📸 Professional Instagram: https://www.instagram.com/ing.yusmendy/
+- 🏢 Tech & Solutions Instagram: https://www.instagram.com/espinalteachnologyandsolutions/
 - ▶️ YouTube: https://youtube.com/@yusmendyespinal5849?si=5yMJbT2AQEGXfFPK
 
 ---
 
 <div align="center">
 
-## 💻 Frase Favorita
+## 💻 Favorite Quote
 
 ```cpp
 while(alive) {
